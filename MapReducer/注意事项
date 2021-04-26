@@ -1,0 +1,2 @@
+要想在Windows平台运行需要先下载Hadoop，版本号为2.7.1
+用IDEA打开添加\hadoop-2.7.1\share\hadoop下的common下的所有，以及mapreducer、yarn
